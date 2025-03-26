@@ -7,3 +7,5 @@ Design and develop a responsive, highly available, lighting-fast and secure appl
 The application should provide culturaly adapatable mental health resources, personalized insights andd anonymous help options etc.
 Leverage machine learning models to identify early warning signs of mental distress based on user engagement, and beharioral signals
 Develop an AI-powered conversational assistant(Multilingual) to offer empatheticc and context-aware support, guiding users to relevant resources and provide personalizred mental health recommendations while ensuring privacy and sensitivity
+
+We can use the agents. First to take the registration form , 2. GIve the predefined questions and answers. 3. Story of the peron 4. We ahve to use the mental health llm and give the suggestions. 5. We can give the nearby hospistals which are there
